@@ -21,25 +21,19 @@
     - C# form에 opencv-python을 얹으려 했으나 여러 문제로 python console로 진행..
 
         - image
-
-    ![original_image](./sample_image/image_processing_origin.jpg)
+            ![original_image](./sample_image/image_processing_origin.jpg)
 
         - clustering
-
-    ![clustering](./sample_image/image_processing_cluster.jpg)
+            ![clustering](./sample_image/image_processing_cluster.jpg)
 
         - segmentatoin
-
-    ![segmentation](./sample_image/image_processing_segmentation.JPG)
+            ![segmentation](./sample_image/image_processing_segmentation.JPG)
 
         - blur
-
-    ![blur](./sample_image/image_processing_blur.jpg)
+            ![blur](./sample_image/image_processing_blur.jpg)
 
         - output
-
-    ![output](./sample_image/image_processing_output.jpg)
+            ![output](./sample_image/image_processing_output.jpg)
 
         - program
-
-    ![application3](./sample_image/application3.png)
+            ![application3](./sample_image/application3.png)
