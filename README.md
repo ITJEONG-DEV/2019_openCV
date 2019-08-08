@@ -9,6 +9,7 @@
 
         ![application1](./sample_image/application1.JPG)
 
+<br>
 2. image_processing
     - opencv-python
     - 기능
@@ -19,9 +20,13 @@
     - C# form에 opencv-python을 얹으려 했으나 여러 문제로 python console로 진행..
 
     ![original_image](./sample_image/image_processing_origin.jpg)
+
     ![clustering](./sample_image/image_processing_cluster.jpg)
-    ![segmentation](./sample_image/image_processing_segmentation.jpg)
+
+    ![segmentation](./sample_image/image_processing_segmentation.JPG)
+
     ![blur](./sample_image/image_processing_blur.jpg)
+
     ![output](./sample_image/image_processing_output.jpg)
 
-    ![application3](./sample_image/application3.jpg)
+    ![application3](./sample_image/application3.JPG)
