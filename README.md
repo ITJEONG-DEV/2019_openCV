@@ -8,6 +8,7 @@
         2. 이미지들을 FPS가 n인 영상으로 제작
 
             - program
+
         ![application1](./sample_image/application1.JPG)
 
 
@@ -24,16 +25,21 @@
     ![original_image](./sample_image/image_processing_origin.jpg)
 
         - clustering
+
     ![clustering](./sample_image/image_processing_cluster.jpg)
 
         - segmentatoin
+
     ![segmentation](./sample_image/image_processing_segmentation.JPG)
 
         - blur
+
     ![blur](./sample_image/image_processing_blur.jpg)
 
         - output
+
     ![output](./sample_image/image_processing_output.jpg)
 
         - program
+
     ![application3](./sample_image/application3.png)
