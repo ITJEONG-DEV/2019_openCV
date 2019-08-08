@@ -9,13 +9,12 @@
 
         ![application1](./sample_image/application1.JPG)
 
-<br>
+
 2. image_processing
     - opencv-python
     - 기능
         1. 이미지들을 분할
         2. 분할된 이미지들을 새로운 색상으로 변환
-
 
     - C# form에 opencv-python을 얹으려 했으나 여러 문제로 python console로 진행..
 
