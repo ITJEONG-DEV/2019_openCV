@@ -6,7 +6,5 @@
     - 기능
         1. 영상을 초당 n개의 이미지로 분할
         2. 이미지들을 FPS가 n인 영상으로 제작
-<br>
-![application1](./sample_image/application1.JPG)
-<br>
-<br>
+
+        ![application1](./sample_image/application1.JPG)
